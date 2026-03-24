@@ -1,23 +1,23 @@
-## Hey, I'm Markiyan
+## Hey, I'm Mark
 
-Backend developer. I mostly build automation tools, Telegram bots, and AI-powered stuff. Started with simple scripts, got hooked, now I spend most of my time wiring APIs together and making things talk to each other.
+Full-stack developer. I build web products end to end — landing pages, SaaS dashboards, Telegram bots, AI tools, REST APIs, browser extensions. Started with simple automation scripts, ended up shipping full products.
 
-Currently into LLM integrations — RAG pipelines, agents, that kind of thing. FastAPI for backends when I need something proper, aiogram when it's Telegram.
+**What I work with:**
 
-**What I usually work with:**
-
-Python, JavaScript, FastAPI, aiogram, LangChain, OpenAI API, PostgreSQL, Docker
+Python · FastAPI · Node.js · React · Next.js · TypeScript · PostgreSQL · Docker · OpenAI API · LangChain · aiogram · Shopify API
 
 **Some stuff I've built:**
 
-- Telegram bot that tracks expenses by just sending a message like "spent 40 on coffee" — GPT parses it, saves to DB, gives you stats
-- Price tracker that watches any website and pings you when the price drops
-- Customer support bot that reads your FAQ files and answers questions using retrieval
-- REST API for e-commerce with JWT auth, orders, stock management — the full thing
-- Crypto alert bot using CoinGecko, no API key needed for basic stuff
+- Crypto exchange landing page — dark fintech design with live market table and canvas particle background
+- SaaS URL shortener — Next.js + Prisma + NextAuth, full dashboard with analytics
+- Telegram Mini App — budget tracker that runs inside Telegram as a web app
+- Shopify → Telegram integration — order notifications, low stock alerts, daily sales reports
+- AI document assistant — chat with your PDFs using LangChain + RAG
+- E-commerce REST API — FastAPI + JWT auth + Docker, production-ready
+- Browser extension — clip any webpage or selected text straight to Telegram
 
-Most of my projects end up on Telegram because that's where people actually use things.
+**Also:** food delivery landing, fitness app landing, web agency site, fashion e-commerce, AI SaaS landing — various client-style projects across different industries.
 
 ---
 
-Open for freelance work. If you need something automated, a bot built, or an AI tool integrated — reach out.
+Open for freelance. If you need a web app, bot, AI integration, or landing page — reach out.
